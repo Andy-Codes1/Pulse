@@ -1,0 +1,12 @@
+{
+  "appId": "com.pulse.remittance",
+  "appName": "Pulse",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "ios": {
+    "contentInset": "always",
+    "scheme": "Pulse"
+  }
+}

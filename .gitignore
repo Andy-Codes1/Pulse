@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.DS_Store
+*.local
+.env
+.env.local
+
+# Capacitor / Xcode
+ios/App/Pods/
+ios/App/build/
+ios/App/DerivedData/
+ios/*.xcworkspace/xcuserdata/
+ios/*.xcodeproj/xcuserdata/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
