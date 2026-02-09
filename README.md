@@ -177,7 +177,7 @@ The demo calls the Anthropic Claude API for:
 - Credit letter generation
 - Error explanations
 
-**For the investor demo**, the API calls will fall back to realistic hardcoded responses if the API is unavailable, so it works offline too.
+**For the JUDGE demo**, the API calls will fall back to realistic hardcoded responses if the API is unavailable, so it works offline too.
 
 **To connect Gemini instead**, update the `callAI` function in `PulseApp.tsx`:
 
